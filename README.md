@@ -132,14 +132,3 @@ Program telah diuji dan terbukti valid terhadap seluruh data uji dari slide kuli
    - Kata ekstrem `ZZZZZ` ($M = 2525252525$) $\implies$ berhasil dienkripsi dan didekripsi utuh.
 
 ---
-
-## 👥 Tabel Kontribusi Anggota Kelompok
-
-Tabel ini disiapkan untuk dipindahkan ke Bab 5 makalah:
-
-| No | Nama Anggota | NIM | Bagian Kode | Bagian Makalah |
-|:--:|:---|:---:|:---|:---|
-| 1 | *(Nama Anggota 1)* | *(NIM)* | `rsa_core.py`, `encoding.py`, `tests/` | Bab 2 (Landasan Teori Aritmetika Modular) |
-| 2 | *(Nama Anggota 2)* | *(NIM)* | `wordle_engine.py`, `game_master.py` | Bab 3 (Rancangan & Arsitektur Program) |
-| 3 | *(Nama Anggota 3)* | *(NIM)* | `gui.py`, `main.py` | Bab 4 (Antarmuka & Pengujian Sistem) |
-| 4 | *(Nama Anggota 4)* | *(NIM)* | `lab_kripto.py`, `README.md`, `kata.txt` | Bab 1 (Pendahuluan) & Bab 6 (Penutup) |
